@@ -9,7 +9,7 @@ pygame.mixer.init()
 db = msqc.connect(
     host="localhost",
     username="root",
-    password="activa123456SWEETMANGO",
+    password=" ",
     database="music_data",
 )
 cur = db.cursor(buffered=True)
