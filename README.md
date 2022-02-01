@@ -1,5 +1,5 @@
 # Personal-Project
-* Project 1 :- Hotel Management software (tkinter + File I/O) [First Four Files]
+* Project 1 :- Hotel Management software (tkinter + File I/O) [project_hotel.py , hotelbackend.py , all_seeing_eye_1698551_1280_lV8_icon , Review.txt]
     * 2022-01-27 12-05-06.mkv **PREVIEW OF PROJECT 1**
 * Project 2 :- Music Player not much (tkinter + File I/O) [From back.png to skip-button.png]
    * IK i had not added some features in it
